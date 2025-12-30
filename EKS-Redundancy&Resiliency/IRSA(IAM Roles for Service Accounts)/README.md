@@ -1,3 +1,6 @@
+<img width="1407" height="550" alt="image" src="https://github.com/user-attachments/assets/aba7bce3-a5fe-4abd-bf56-b62b49ce08f9" />
+
+
 # IRSA (IAM Roles for Service Accounts) – Architecture & Production Guide
 
 ## What is IRSA?
